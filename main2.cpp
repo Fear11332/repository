@@ -1,5 +1,5 @@
 int main()
 {
-   std::cout<<"bye world"<<endl;
+   std::cout<<"bye world"<<std::endl;
    return 0;
 }
