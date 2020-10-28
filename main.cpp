@@ -1,9 +1,5 @@
-#include <iostream>
-
-using std::cout;
-
 int main()
 {
-  cout<<"hello";
+  cout<<"hello world";
  return 0;
 }
